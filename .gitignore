@@ -1,4 +1,3 @@
-/dist/
-/src/
 /vendor/*
 !/vendor/postman-importer
+.idea
